@@ -2,7 +2,7 @@ body {
   
     background-color: rgb(238, 218, 192);
     background-image: none;
-    background-image: url('images/pngwing.com.png');
+    background-image: url('images/paper.jpg');
     background-repeat: repeat;
     font-size: 30px;
     text-align: center;
@@ -15,10 +15,11 @@ img#img-anne {
     height: 190px;
     width: auto;  
     float: left; 
+    margin-top: 50px;
 }
 
 div.formulario {
-    width: 370px;
+    width: 330px;
     margin: auto;
     background-color: rgba(255, 255, 255, 0.788);
     padding: 30px;
@@ -26,6 +27,7 @@ div.formulario {
     text-align: left; 
     font-size: medium;
     float: right;
+    margin-bottom: 50px;
     }
 
 button {
