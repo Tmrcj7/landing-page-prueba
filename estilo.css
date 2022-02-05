@@ -1,0 +1,64 @@
+body {
+  
+    background-color: rgb(238, 218, 192);
+    background-image: none;
+    background-image: url('images/pngwing.com.png');
+    background-repeat: repeat;
+    font-size: 30px;
+    text-align: center;
+}
+
+img#img-anne {   
+    border: 10px solid rgb(146, 69, 98);
+    border-right: 10px solid black;
+    border-bottom: 10px solid black;
+    height: 190px;
+    width: auto;  
+    float: left; 
+}
+
+div.formulario {
+    width: 370px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.788);
+    padding: 30px;
+    border-radius: 15px;   
+    text-align: left; 
+    font-size: medium;
+    float: right;
+    }
+
+button {
+    background-color: rgb(150, 51, 84);
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+div.botones {
+    text-align: center;
+    margin-top: 1.5em;
+}
+
+label {
+    width: 200px;
+    display: inline-block;
+}
+
+input {
+    font-size: 15px;
+    padding: 7px 10px;
+    border: 1px solid rgb(190, 127, 54);
+    border-radius: 5px;
+}
+
+div.form-line {
+    margin-bottom: 15px;
+}
+
+select {
+    padding: 8px 20px;
+    font-size: 15px;
+    border: 1px solid brown;
+    border-radius: 5px;
+}
